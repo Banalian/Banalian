@@ -6,17 +6,15 @@ I usually work on school projects, but I sometimes go into personnal or associat
 
 You can reach me on LinkedIn with my name, or on Discord Banalian#0584
 
-<!--
-**Banalian/Banalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages I am proficient in:
+- C
+- C++
+- Java
 
-Here are some ideas to get you started:
+### Languages I know:
+- HTML/CSS/PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I already saw/worked a little bit with:
+- Arduino
+- Processing
+- Python
