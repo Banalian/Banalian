@@ -14,7 +14,8 @@ You can reach me on LinkedIn with my name.
 ### Languages I know:
 - HTML/CSS/PHP
 
-### Languages I already saw/worked a little bit with:
+### Languages I already saw/worked with:
+- NodeJS/Typescript
 - Arduino
 - Processing
 - Python
