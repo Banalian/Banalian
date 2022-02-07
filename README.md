@@ -13,6 +13,7 @@ You can reach me on LinkedIn with my name.
 
 ### Languages I know:
 - HTML/CSS/PHP
+- Angelscript
 
 ### Languages I already saw/worked with:
 - NodeJS/Typescript
