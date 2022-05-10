@@ -9,7 +9,8 @@ You can reach me on LinkedIn with my name.
 ### Languages I am proficient in:
 - C
 - C++
-- Java
+- C#
+- Java/JEE
 
 ### Languages I know:
 - HTML/CSS/PHP
