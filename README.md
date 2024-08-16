@@ -2,7 +2,7 @@
 
 I am Banalian, also known as Lilian Pouvreau, I'm a french computer science Engineer and Master, from Polytech Tours and UQAC.
 
-I usually work on private repositories for work, but I sometimes go into more public and personal projects that I really enjoy !
+I usually work on private repositories for work, but I sometimes go into more public and personal projects that I really enjoy!
 
 You can reach me on LinkedIn with my name.
 
